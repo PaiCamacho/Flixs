@@ -16,7 +16,7 @@ Flixs is an app that allows users to browse movies from the [The Movie Database 
 
 ### App Walkthough GIF
 
-<img src=http://g.recordit.co/ygnU587PvB.gif width=250><br>
+<img src=http://g.recordit.co/xz8OzVcJxp.gif width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
